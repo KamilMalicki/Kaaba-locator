@@ -17,6 +17,21 @@ const TŁUMACZENIA = {
         stopnie: "°",
         km: " km"
     },
+    'en': {
+        tytul_strony: "Kaaba Finder | Compass",
+        tytul: "Where is the Kaaba?",
+        status_oczekujacy: "Checking the location...",
+        status_sukces: "Location is configured.",
+        status_blad: "Location error.",
+        akt_lokalizacja: "Your location:",
+        etykieta_dystans: "Distance to Kaaba:",
+        kierunek_kaaby: "Degree to Kaaba (from N):",
+        info_przycisk: "Allow access to compass",
+        info_aktywny: "Compass is active. Aim at the Kaaba.",
+        info_czekaj: "Calibrating...",
+        stopnie: "°",
+        km: " km"
+    },
     'tr': {
         tytul_strony: "Kabe Pusulası",
         tytul: "Kabe Yönü",
