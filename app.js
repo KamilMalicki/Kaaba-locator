@@ -32,6 +32,21 @@ const TŁUMACZENIA = {
         stopnie: "°",
         km: " km"
     },
+    'es': {
+        tytul_strony: "Brújula de la Kaaba",
+        tytul: "Dirección de la Kaaba",
+        status_oczekujacy: "Obteniendo ubicación...",
+        status_sukces: "Ubicación obtenida.",
+        status_blad: "Error de ubicación.",
+        akt_lokalizacja: "Tu ubicación:",
+        etykieta_dystans: "Distancia a la Kaaba:",
+        kierunek_kaaby: "Ángulo a la Kaaba:",
+        info_przycisk: "Activar brújula",
+        info_aktywny: "Brújula activa.",
+        info_czekaj: "Calibrando...",
+        stopnie: "°",
+        km: " km"
+    },
     'tr': {
         tytul_strony: "Kabe Pusulası",
         tytul: "Kabe Yönü",
