@@ -65,7 +65,7 @@ const TŁUMACZENIA = {
     'ar': {
         tytul_strony: "بوصلة الكعبة",
         tytul: "اتجاه القبلة",
-        status_oczekujacy: "جاري تحديد الموقع...",
+        status_oczekujacy: "...جاري تحديد الموقع",
         status_sukces: "تم تحديد الموقع.",
         status_blad: "خطأ في الموقع.",
         akt_lokalizacja: "موقعك:",
@@ -73,7 +73,7 @@ const TŁUMACZENIA = {
         kierunek_kaaby: "زاوية القبلة:",
         info_przycisk: "تفعيل البوصلة",
         info_aktywny: "البوصلة نشطة.",
-        info_czekaj: "جار التحميل...",
+        info_czekaj: "...جار التحميل",
         stopnie: "°",
         km: " كم"
     }
